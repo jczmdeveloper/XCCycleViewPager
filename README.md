@@ -3,6 +3,7 @@
 
 效果图如下：
 
-![image](https://github.com/jczmdeveloper/XCCycleViewPager/blob/master/sreenshots/01.gif)     
+![image](https://github.com/jczmdeveloper/XCCycleViewPager/blob/master/screenshots/01.gif)  
+
 
 控件的用法和原生的ViewPager一样。
